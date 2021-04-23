@@ -1,8 +1,0 @@
-include: package:lint/analysis_options.yaml
-linter:
-  rules:
-    avoid_print: false
-    file_names: false
-analyzer:
-  enable-experiment:
-    - non-nullable
