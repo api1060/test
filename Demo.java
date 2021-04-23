@@ -7,8 +7,3 @@ class Demo{
 		System.out.println("New change");
 	}
 }
-// Test line 
-// Test line 
-// Test line 
-// Test line 
-// Test line 
